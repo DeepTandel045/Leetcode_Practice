@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0860-lemonade-change) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Greedy
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0860-lemonade-change) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
