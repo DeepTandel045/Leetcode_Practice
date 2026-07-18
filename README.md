@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1492-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1492-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
