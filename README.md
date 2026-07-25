@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [1492-the-kth-factor-of-n](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
