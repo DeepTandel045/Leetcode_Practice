@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
