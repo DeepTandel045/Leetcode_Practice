@@ -1,38 +1,46 @@
 class Solution {
 public:
+
+int rowm(vector<vector<int>>& mat,int n,int mid) {
+
+    int maxi = -1,index=-1;
+
+    for(int i =0;i<n;i++) {
+        if(mat[i][mid]>maxi) {
+            maxi = mat[i][mid];
+            index = i;
+        }
+    }
+
+    return index;
+}
+
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
 
         int n = mat.size();
         int m = mat[0].size();
 
-        for(int i =0;i<n;i++) {
-            for(int j = 0;j<m;j++) {
+        int low = 0,high = m-1;
 
-                            bool ans = true;
+        while(low<=high) {
 
-                if(i<n-1 && mat[i][j]<mat[i+1][j] ) {
-                    ans = false;
-                }
+            int mid = low + (high - low) /2;
 
-                if(  j<m-1 && mat[i][j]<mat[i][j+1] ) {
-                    ans = false;
-                }
+            int row = rowm(mat,n,mid);
 
-                if(i>0 && mat[i][j]<mat[i-1][j] )  {
-                    ans = false;
-                }
+            int left = mid-1 >= 0 ? mat[row][mid-1] : -1;
+            int right = mid+1 <m ? mat[row][mid+1] : -1;
 
-                if(j>0 && mat[i][j]<mat[i][j-1] ) {
-                    ans = false;
-                }
-
-                if(ans) {
-                    return {i,j};
-                }
-
-                
-
+            if(mat[row][mid]>left && mat[row][mid]>right ) {
+                return {row,mid};
+            }  
+            else if(mat[row][mid]<left) {
+                high = mid-1;
             }
+            else {
+                low = mid+1;
+            }
+
         }
 
         return {-1,-1};
