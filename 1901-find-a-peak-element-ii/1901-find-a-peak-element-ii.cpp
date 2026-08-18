@@ -5,42 +5,37 @@ public:
         int n = mat.size();
         int m = mat[0].size();
 
-
-
         for(int i =0;i<n;i++) {
-            for(int j =0;j<m;j++) {
+            for(int j = 0;j<m;j++) {
 
-                       int ispeak = true;
+                            bool ans = true;
 
-                //up
-                if(i>0 && mat[i-1][j]>=mat[i][j]) {
-                    ispeak = false;
+                if(i<n-1 && mat[i][j]<mat[i+1][j] ) {
+                    ans = false;
                 }
 
-                //down
-                if(i<n-1 && mat[i][j] <= mat[i+1][j]) {
-                    ispeak = false;
+                if(  j<m-1 && mat[i][j]<mat[i][j+1] ) {
+                    ans = false;
                 }
 
-                //left
-                if(j>0 && mat[i][j] <= mat[i][j-1]) {
-                    ispeak = false;
+                if(i>0 && mat[i][j]<mat[i-1][j] )  {
+                    ans = false;
                 }
 
-                //right
-                if(j<m-1 && mat[i][j+1]>=mat[i][j]) {
-                    ispeak = false;
+                if(j>0 && mat[i][j]<mat[i][j-1] ) {
+                    ans = false;
                 }
 
-              
-                if(ispeak) {
+                if(ans) {
                     return {i,j};
                 }
+
+                
+
             }
         }
 
         return {-1,-1};
-
         
     }
 };
