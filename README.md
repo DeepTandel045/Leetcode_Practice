@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1901-find-a-peak-element-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2643-row-with-maximum-ones](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2643-row-with-maximum-ones) |
 ## Greedy
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1901-find-a-peak-element-ii) |
+| [2643-row-with-maximum-ones](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2643-row-with-maximum-ones) |
 ## Linked List
 |  |
 | ------- |
