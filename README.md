@@ -66,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0410-split-array-largest-sum) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
