@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0860-lemonade-change) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1901-find-a-peak-element-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1901-find-a-peak-element-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1901-find-a-peak-element-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
