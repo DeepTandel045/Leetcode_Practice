@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -30,15 +31,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [3884-first-matching-character-from-both-ends](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
