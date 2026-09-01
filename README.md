@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1154-day-of-the-year](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1154-day-of-the-year) |
 | [3884-first-matching-character-from-both-ends](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0258-add-digits) |
+| [1154-day-of-the-year](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1154-day-of-the-year) |
 | [1492-the-kth-factor-of-n](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
