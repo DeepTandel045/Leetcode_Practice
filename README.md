@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2390-removing-stars-from-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1154-day-of-the-year) |
+| [2390-removing-stars-from-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
@@ -128,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0258-add-digits) |
+| [2390-removing-stars-from-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
