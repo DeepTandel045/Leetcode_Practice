@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0704-binary-search) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Newton's Method
 |  |
 | ------- |
@@ -131,4 +133,28 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0258-add-digits) |
 | [2390-removing-stars-from-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
