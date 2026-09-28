@@ -1,5 +1,17 @@
 class Solution {
 public:
+
+int sumByD(vector<int>& nums, int d) {
+        int sum = 0;
+
+        for (int num : nums) {
+            sum += (num + d - 1) / d;
+        }
+
+        return sum;
+    }
+
+
     int smallestDivisor(vector<int>& nums, int threshold) {\
 
     int n = nums.size();
@@ -11,13 +23,10 @@ public:
     while(low<=high) {
 
         int mid = low + (high-low)/2;
-       int sum = 0;
+      
+      int g = sumByD(nums,mid);
 
-        for(auto x : nums) {
-            sum+=ceil(double(x)/mid); 
-        }
-
-        if(sum<=threshold) {
+        if(g<=threshold) {
             ans = mid;
             high = mid-1;
         }
