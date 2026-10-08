@@ -2,45 +2,45 @@ class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
 
-        int n = weights.size(),mini=0,c=0;
+        int n = weights.size();
+
+        int low = *max_element(weights.begin(),weights.end());
+        int high=0;
 
         for(int i =0;i<n;i++) {
-            
-                mini = max(mini,weights[i]);
-            
-            c+=weights[i];
+            high += weights[i];
         }
 
-        int low = mini , high = c;
+        int ans = high;
 
         while(low<=high) {
 
-            int mid = low + (high - low)/2;
+            int mid = low + (high - low) / 2;
+            int c=1;
+            int sum =0;
 
-           int groups = 1;
-            int currentSum = 0;
+            for(int i =0;i<n;i++) {
 
-            for(int x : weights) {
+                 if(sum + weights[i] > mid) {
+                c++;
+                sum = 0;
+            } 
 
-              if(currentSum + x <= mid) {
-                 currentSum += x;
-                     }
-                  else {
-                    groups++;
-                   currentSum = x;
-                 }
-                }
+            sum += weights[i];
 
-                if(groups>days) {
-                    low = mid+1;
-                }
-                else {
-                    high = mid-1;
-                }
-         }
+            }
 
-         return low;
+            if(c<=days) {
+                ans=mid;
+                high = mid-1;
+            }
+            else {
+                low = mid+1;
+            }
 
+        }   
 
+        return ans;
+        
     }
 };
