@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1991-find-the-middle-index-in-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2643-row-with-maximum-ones](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2643-row-with-maximum-ones) |
 ## Greedy
 |  |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0922-sort-array-by-parity-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1154-day-of-the-year) |
+| [2109-adding-spaces-to-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0258-add-digits) |
+| [2109-adding-spaces-to-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
