@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
+| [0922-sort-array-by-parity-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0922-sort-array-by-parity-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0922-sort-array-by-parity-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
