@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1154-day-of-the-year) |
 | [2109-adding-spaces-to-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2109-adding-spaces-to-a-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
