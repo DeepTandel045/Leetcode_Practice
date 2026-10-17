@@ -21,11 +21,7 @@ public:
             }
         }
 
-        if(u == d && r == l) {
-            return true;
-        }
-
-        return false;
+        return (l == r) && (u == d);
         
     }
 };
