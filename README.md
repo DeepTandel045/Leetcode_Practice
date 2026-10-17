@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1154-day-of-the-year) |
 | [2109-adding-spaces-to-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2109-adding-spaces-to-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
