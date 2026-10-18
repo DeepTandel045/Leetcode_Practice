@@ -4,14 +4,17 @@ public:
 
         int n = nums.size();
 
-        sort(nums.begin(),nums.end());
+        if(n<=2) return -1;
 
-        int a = nums[0],b=nums[n-1];
+        int a = -1,b = 101;
 
-        for(int i =1;i<n;i++) {
-            if(nums[i]!=b) {
-                return nums[i];
-            }
+        for(int i =0;i<n;i++) {
+            a = max(a,nums[i]);
+            b = min(b,nums[i]);
+        }
+
+        for(int i = 0;i<n;i++) {
+            if((nums[i] != b ) && (nums[i] != a)) return nums[i];
         }
 
         return -1;
