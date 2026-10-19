@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2643-row-with-maximum-ones](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2643-row-with-maximum-ones) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0922-sort-array-by-parity-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2733-neither-minimum-nor-maximum](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2733-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
