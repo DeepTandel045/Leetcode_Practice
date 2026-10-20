@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0922-sort-array-by-parity-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
