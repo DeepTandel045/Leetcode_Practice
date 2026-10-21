@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0860-lemonade-change) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0682-baseball-game) |
 | [2109-adding-spaces-to-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
