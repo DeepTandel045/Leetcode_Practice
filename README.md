@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0392-is-subsequence) |
+| [0881-boats-to-save-people](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -207,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
