@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2643-row-with-maximum-ones](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/2733-neither-minimum-nor-maximum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DeepTandel045/Leetcode_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Number Theory
 |  |
 | ------- |
